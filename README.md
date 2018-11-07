@@ -44,7 +44,7 @@ int main () {
 
 ```
 
-## Latihan 2: Program Struk Belanja Fresh to Fresh
+## Latihan 2: Program Struk Belanja Green market
 
 **Alue algoritma**
 1. Deklarasikan variable `int N, a, b, d, e, hb, i, total, stotal dan float dis = 0.0`
